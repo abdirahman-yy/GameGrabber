@@ -1,2 +1,2 @@
 # GameGrabber
-A set of fun terminal games! 
+A set of fun terminal games using Object Oriented Programming Design! 
