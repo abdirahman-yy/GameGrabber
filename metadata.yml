@@ -1,0 +1,12 @@
+---
+:id: 101611696
+:submitters:
+- :name: Abdirahman Mohamed
+  :email: moha0950@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-21 23:56:37.874234000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-21 15:56:37.874234000 Z
+:status: processed
+:score: 75.5
